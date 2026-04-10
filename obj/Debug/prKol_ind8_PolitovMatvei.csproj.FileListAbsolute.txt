@@ -1,0 +1,8 @@
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\bin\Debug\prKol_ind8_PolitovMatvei.exe.config
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\bin\Debug\prKol_ind8_PolitovMatvei.exe
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\bin\Debug\prKol_ind8_PolitovMatvei.pdb
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\obj\Debug\prKol_ind8_PolitovMatvei.csproj.AssemblyReference.cache
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\obj\Debug\prKol_ind8_PolitovMatvei.csproj.CoreCompileInputs.cache
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\obj\Debug\prKol_ind8_PolitovMatvei.exe
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\obj\Debug\prKol_ind8_PolitovMatvei.pdb
+C:\Users\8635\Downloads\c\prKol_ind8_PolitovMatvei\obj\Debug\prKol_ind8_PolitovMatvei.exe.config

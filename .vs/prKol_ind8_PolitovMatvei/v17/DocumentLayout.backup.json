@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\8635\\Downloads\\c\\prKol_ind8_PolitovMatvei\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC140843-1E7F-4536-86AB-404ADE1013BD}|prKol_ind8_PolitovMatvei.csproj|c:\\users\\8635\\downloads\\c\\prkol_ind8_politovmatvei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC140843-1E7F-4536-86AB-404ADE1013BD}|prKol_ind8_PolitovMatvei.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC140843-1E7F-4536-86AB-404ADE1013BD}|prKol_ind8_PolitovMatvei.csproj|c:\\users\\8635\\downloads\\c\\prkol_ind8_politovmatvei\\formulaevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC140843-1E7F-4536-86AB-404ADE1013BD}|prKol_ind8_PolitovMatvei.csproj|solutionrelative:formulaevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormulaEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\8635\\Downloads\\c\\prKol_ind8_PolitovMatvei\\FormulaEvaluator.cs",
+              "RelativeDocumentMoniker": "FormulaEvaluator.cs",
+              "ToolTip": "C:\\Users\\8635\\Downloads\\c\\prKol_ind8_PolitovMatvei\\FormulaEvaluator.cs",
+              "RelativeToolTip": "FormulaEvaluator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:24:37.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\8635\\Downloads\\c\\prKol_ind8_PolitovMatvei\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\8635\\Downloads\\c\\prKol_ind8_PolitovMatvei\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:24:13.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
